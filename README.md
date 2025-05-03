@@ -1,6 +1,9 @@
 # LLM_CNN_Spring2025
 Among the evaluated summarization models and decoding techniques.
 
+IMPORTANT :  We have observed that code files hosted on GitHub occasionally fail to load or display correctly, especially when accessed through shared links or in restricted environments. To avoid these issues and ensure smooth execution, we recommend using Google Colab for all code demonstrations and assignments. Colab provides a more reliable and user-friendly interface for running Python code in the browser, with built-in support for popular libraries and datasets.
+
+
 SWE 422 – Introduction to Large Language Models
 Spring 2025 – Homework Report
 Students:
