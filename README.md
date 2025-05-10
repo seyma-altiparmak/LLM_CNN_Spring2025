@@ -8,7 +8,6 @@ SWE 422 – Introduction to Large Language Models
 Spring 2025 – Homework Report
 Students:
 Şeyma Altıparmak | B201202051
-Emine Nisa Türk | B201202014
 
 ## 1. Setup and Methodology
 BART and Pegasus. We used a small (1%) portion of the CNN/DailyMail dataset to ensure quicker results while maintaining content diversity.
